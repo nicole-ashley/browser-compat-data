@@ -327,7 +327,7 @@
               "notes": "Before Firefox 49, results for URL using the blob scheme incorrectly returned null."
             },
             "ie": {
-              "version_added": null
+              "version_added": "11"
             },
             "opera": {
               "version_added": null
@@ -733,7 +733,7 @@
               "version_added": "22"
             },
             "ie": {
-              "version_added": null
+              "version_added": "11"
             },
             "opera": {
               "version_added": null
